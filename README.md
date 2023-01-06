@@ -3,6 +3,7 @@ analyzing NFL stats using data science and python libraries to predict 49ers 202
 
 NFL data was taken from Pro Football reference: https://www.pro-football-reference.com/
 
+
 ## Hands on Practice with data science using machine learning and statistical tools
 Practiced how to manipulate NFL stats data by:
 * visualizing game stats using libraries
