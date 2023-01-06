@@ -1,4 +1,4 @@
-# Summary niners-nfl-predictions
+# Summary of niners-nfl-predictions
 analyzing NFL stats using data science and python libraries to predict 49ers 2022 season wins
 
 NFL data was taken from Pro Football reference: https://www.pro-football-reference.com/
@@ -9,6 +9,7 @@ Practiced how to manipulate NFL stats data by:
 * model stats choosing features used to predict winning games
 * tune model to improve accuracy by manipulating test data size
 * discover which stat features are most influential to determine wins
+
 
 
 ## Libraries
